@@ -4,6 +4,10 @@
 ### Я использую технологии: JS, TS, React, Redux, HTML, CSS, SCSS
 
 #### Codewars https://www.codewars.com/users/OlegGrn/badges/large
+#### Некоторые мой работы:
+- https://oleggrn.github.io/Kvadrastudio-AJAX-JS-MaskPhone-adaptiv-/
+Адаптивный лендинг, маска для телефона, проверка формы перед отправкой, меню бургер, разметка HTML по методологии БЭМ
+
 
 
 
