@@ -1,5 +1,12 @@
 ### Привет 👋, я Олег Грудин
-.1. List
+я ищу работу фронтенд-разработчиком удалённо или в офисе в г. Калининград
+
+### Я использую технологии: JS, TS, React, Redux, HTML, CSS, SCSS
+
+#### Codewars
+
+
+
 
 <!--
 **OlegGrn/OlegGrn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
