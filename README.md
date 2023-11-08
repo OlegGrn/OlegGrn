@@ -3,7 +3,7 @@
 
 ### Я использую технологии: JS, TS, React, Redux, HTML, CSS, SCSS
 
-#### Codewars
+#### Codewars https://www.codewars.com/users/OlegGrn/badges/large
 
 
 
