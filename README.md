@@ -7,9 +7,8 @@
 #### Некоторые мой работы:
 -  https://oleggrn.github.io/shop_client_react_ts/
 Клиентская часть приложения магазина на React с TypeScript. Серверная часть в shop_server_express. Приложение адаптивно до ширины экрана 320px. Store на Mobx, Http запросы через Axios, авторизация посредством JWT.
-Описание проекта на странице About данного приложения
 - https://oleggrn.github.io/shop_server_express/
-Серверная часть приложения магазина. Использовались  Express, Sequelize. База данных на облачном сайте Neon Serverless Postgres https://neon.tech/
+Серверная часть приложения магазина. Использовались Node.js,  Express, Sequelize. База данных на сайте Neon Serverless Postgres https://neon.tech/
 - https://oleggrn.github.io/Kvadrastudio-AJAX-JS-MaskPhone-adaptiv-/
 Адаптивный лендинг, маска для телефона, проверка формы перед отправкой, меню бургер, разметка HTML по методологии БЭМ
 - https://oleggrn.github.io/Public_Charger/
